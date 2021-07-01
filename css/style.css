@@ -65,6 +65,15 @@ h1 {
     font-size: 24px;
 }
 
+@media only screen and (max-width: 500px){
+    
+    .header{
+        max-width: 95%;
+        padding-left: 5%;
+    }
+}
+
+
 .header .player-o{
     flex: 1;
     border-bottom: 5px solid #eee;
@@ -137,7 +146,7 @@ h1 {
         flex-direction: column;
 
     }
-
+    
     .left {
         margin-bottom: 50px;
     }
