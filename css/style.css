@@ -67,7 +67,7 @@ h1 {
 
 @media only screen and (max-width: 500px){
     .game {
-    max-width: 95%;
+    max-width: 80%;
     padding: 16%;
     }
 }
